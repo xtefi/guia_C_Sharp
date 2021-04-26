@@ -1,0 +1,6 @@
+C:\Users\54113\Desktop\Guia CSharp\Conceptos basicos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\54113\Desktop\Guia CSharp\Conceptos basicos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\54113\Desktop\Guia CSharp\Conceptos basicos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\54113\Desktop\Guia CSharp\Conceptos basicos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\Guia CSharp\Conceptos basicos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\54113\Desktop\Guia CSharp\Conceptos basicos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

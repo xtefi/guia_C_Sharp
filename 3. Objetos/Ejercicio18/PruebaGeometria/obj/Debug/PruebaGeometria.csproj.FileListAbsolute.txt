@@ -1,0 +1,10 @@
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\PruebaGeometria.exe.config
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\PruebaGeometria.exe
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\PruebaGeometria.pdb
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\Geometria.dll
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\Geometria.pdb
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.csprojAssemblyReference.cache
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.csproj.CopyComplete
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.exe
+C:\Users\54113\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.pdb

@@ -1,0 +1,6 @@
+C:\Users\54113\source\repos\Ejercicio16\Personas\bin\Debug\Personas.dll
+C:\Users\54113\source\repos\Ejercicio16\Personas\bin\Debug\Personas.pdb
+C:\Users\54113\source\repos\Ejercicio16\Personas\obj\Debug\Personas.csprojAssemblyReference.cache
+C:\Users\54113\source\repos\Ejercicio16\Personas\obj\Debug\Personas.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Ejercicio16\Personas\obj\Debug\Personas.dll
+C:\Users\54113\source\repos\Ejercicio16\Personas\obj\Debug\Personas.pdb

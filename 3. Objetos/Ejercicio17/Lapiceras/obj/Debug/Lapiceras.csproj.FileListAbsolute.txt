@@ -1,0 +1,6 @@
+C:\Users\54113\source\repos\Ejercicio17\Lapiceras\bin\Debug\Lapiceras.dll
+C:\Users\54113\source\repos\Ejercicio17\Lapiceras\bin\Debug\Lapiceras.pdb
+C:\Users\54113\source\repos\Ejercicio17\Lapiceras\obj\Debug\Lapiceras.csprojAssemblyReference.cache
+C:\Users\54113\source\repos\Ejercicio17\Lapiceras\obj\Debug\Lapiceras.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Ejercicio17\Lapiceras\obj\Debug\Lapiceras.dll
+C:\Users\54113\source\repos\Ejercicio17\Lapiceras\obj\Debug\Lapiceras.pdb

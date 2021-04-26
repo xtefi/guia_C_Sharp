@@ -1,0 +1,10 @@
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\bin\Debug\ClassLibrary1.dll
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\bin\Debug\ClassLibrary1.pdb
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CopyComplete
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\54113\Desktop\Guia CSharp\Métodos estáticos\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

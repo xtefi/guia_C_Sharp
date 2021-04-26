@@ -1,0 +1,10 @@
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.exe
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\bin\Debug\Ejercicio20.pdb
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\bin\Debug\Billetes.dll
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\bin\Debug\Billetes.pdb
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csprojAssemblyReference.cache
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.csproj.CopyComplete
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.exe
+C:\Users\54113\source\repos\Ejercicio20\Ejercicio20\obj\Debug\Ejercicio20.pdb

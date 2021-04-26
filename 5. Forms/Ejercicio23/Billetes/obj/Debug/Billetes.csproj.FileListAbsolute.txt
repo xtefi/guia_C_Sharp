@@ -1,0 +1,12 @@
+C:\Users\54113\source\repos\Ejercicio20\Billetes\bin\Debug\Billetes.dll
+C:\Users\54113\source\repos\Ejercicio20\Billetes\bin\Debug\Billetes.pdb
+C:\Users\54113\source\repos\Ejercicio20\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\54113\source\repos\Ejercicio20\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\54113\source\repos\Ejercicio20\Billetes\obj\Debug\Billetes.dll
+C:\Users\54113\source\repos\Ejercicio20\Billetes\obj\Debug\Billetes.pdb
+C:\Users\54113\Desktop\guia_labo2\5. Forms\Ejercicio23\Billetes\bin\Debug\Billetes.dll
+C:\Users\54113\Desktop\guia_labo2\5. Forms\Ejercicio23\Billetes\bin\Debug\Billetes.pdb
+C:\Users\54113\Desktop\guia_labo2\5. Forms\Ejercicio23\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+C:\Users\54113\Desktop\guia_labo2\5. Forms\Ejercicio23\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\guia_labo2\5. Forms\Ejercicio23\Billetes\obj\Debug\Billetes.dll
+C:\Users\54113\Desktop\guia_labo2\5. Forms\Ejercicio23\Billetes\obj\Debug\Billetes.pdb

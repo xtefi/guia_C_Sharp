@@ -1,0 +1,12 @@
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\bin\Debug\net5.0\CentralTelefonica.deps.json
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\bin\Debug\net5.0\CentralTelefonica.dll
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\bin\Debug\net5.0\ref\CentralTelefonica.dll
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\bin\Debug\net5.0\CentralTelefonica.pdb
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.csproj.AssemblyReference.cache
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.AssemblyInfoInputs.cache
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.AssemblyInfo.cs
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.dll
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\ref\CentralTelefonica.dll
+C:\Users\54113\Desktop\Guia Progra-Labo\Ejercicio37.Centralita\CentralTelefonica\obj\Debug\net5.0\CentralTelefonica.pdb
